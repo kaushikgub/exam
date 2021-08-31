@@ -2,6 +2,7 @@
 
 namespace Task3
 {
+    public delegate void Notify();
     public class Program
     {
         static void Main(string[] args)
