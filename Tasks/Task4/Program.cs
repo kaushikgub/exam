@@ -6,7 +6,7 @@ namespace Task4
     {
         static void Main(string[] args)
         {
-            var result = BinaryToDecimal("11110101010101010101011");
+            var result = BinaryToDecimal("111");
             Console.WriteLine(result);
         }
 
